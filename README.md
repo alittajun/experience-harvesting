@@ -34,3 +34,26 @@ Here are a few Quora answers that I think pin down the essence of a good mentor-
 * **Transparency**: It may take a few meetings to build the trust necessary to give this type of candid feedback, but try to get there quickly
 
 * **Dissolved appropriately**: A mentee shouldn’t be afraid to explicitly dial down the frequency of meetings or stop them entirely.
+
+## Project & Performance Metrics
+
+### Project Metrics
+
+* Set up a regular cadence to interview people (every week [Reach] or every two weeks)
+* Come up with a SOP for research, contact, interview, analysis, document
+
+### Performance Metrics
+
+* **Experience Harvesting / Data Driven Planning**
+	* Figure out at least 1 critical skill for DS
+	* Have a better picture of how DS field is sub-divided into other fields
+	* Stack rank which sub-field you have the highest chance of impact and success
+
+* **Build my network**
+	* The network should be large and close enough that I can manage to invite a sizable chunk of time to a DS meetup
+
+* **Seek Mentors**
+	* Identify a narrow set of candidates as mentors
+	* Reach: Start a mentor-mentee relationship with one person
+
+
