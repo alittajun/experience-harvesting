@@ -40,7 +40,19 @@ The backbone of this exercise is from Cal Newport and Scott Young. There are gen
 
 ### On Buidling Networks
 
-Reid Hoffman's "the startup of you"?
+Framework is based on Reid Hoffman's "the startup of you":
+
+* Relationships matter to your career no matter the organization or your level of seniority because, utlimately, every job boils down to interacting with people. People control resources, opportunities, information and the like.
+
+* People you spent time with shape the person you are today and the person you aspire to be tomorrow. Equation I^We. An individual's power is raised exponentially with the help of a network
+
+* Two types of professional relationships:
+	* **Allies**: people you consult regularly for advice. You trust their judgement. You proactively collaborate. You keep your antenna especially attuned to an ally's interests. You promote his or her brand. You defend them.
+	* **Weaker Ties and Acquantiances**: they introduce diversity. Your network is more diverse than you think, so meet and greet
+
+* Relationship is like a living organism, if they're not getting stronger, they're getting weaker. Strengthen relationships by sending articles, making introductions, collaborating on projects, and staying in touch.
+
+* Join clubs and conferences. Even better, start your own.
 
 ### On Mentoring
 
