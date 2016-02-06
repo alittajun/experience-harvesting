@@ -2,24 +2,49 @@
 
 ## Overarching Goal:
 
-The goal of experience-harvesting is mutliple fold. For a long time, I have been trying to figure things out on my own. While noble, it's not entirely clear that this is the most efficient way to acquire knowledge or learning a new topic. I've found that while it is important to structure your own thoughts, getting constant feedbacks is the key to improvement. On the other hand, it's important to tap into the intelligence of your network when making decisions, like what Reid Hoffman suggested. I have been pretty bad at this in the past, so one of my goals in 2016 is to aggressively build and nurture relationships. Here are the top level goals of this project:
+The goal of experience harvesting is mutliple fold. For a long time, I have been trying to design my career path on my own. While it is a fun exercise to piece all the puzzles together, it's not entirely clear that this is the most efficient approach to career development. I have had a few experience where asking the helps of domain experts really help me to gather most of the information that I would need, in a very short time. I am also at an age where I cannot easily try anything or everything that I am interested in. As a result, learning from the experience from others, especially those who are ahead of me in similar career paths is a smart idea. 
 
-* **Experience Harvesting / Data Driven Planning**
-	* Figure out the success factors of other outstanding Data Scientists
-	* Translate those success factors into skills that you need to double down on
-	* Update your belief about the landscape of the DS field
+Furthermore, this is not going to be a one way street. By talking to people, we will be able to share common experiences and differences in opinions. I believe these kind of conversations will spark new thoughts, ideas, and frameworks, so it's mutually beneficial. The long term effect is that if you have a few allies who share the same practice, they become the network intelligence that you can rely on and tap into when it comes to difficult decisions. 
+
+As a result, my 2016 goals is to be a lot more aggressive in doing experience harvesting. Here are the main goals for this projects:
+
+* **Career Research / Data Driven Planning**
+	* Identify the success factors of other outstanding Data Scientists
+	* Continue to update my belief about the landscape of DS (e.g. Type A v.s. Type B)
 
 * **Build my network**
-	* Start building an nurturing an allie of DS
-	* Ask for their advice and opinions on DS related questions
+	* Build the network and cross pollinate 
+	* Tap into the network intelligence
 
 * **Seek Mentors**
-	* Nurture relationships
 	* Narrow down to a selected few - "board of directors"
+	* Engage and figure out who your mentors are
 
-## Some Background Reading
+## Frameworks
 
-Here are a few Quora answers that I think pin down the essence of a good mentor-mentee relationship
+### On Career Research
+
+The backbone of this exercise is from Cal Newport and Scott Young. There are generally several steps in carrying out a successful career research exercise:
+
+* **Background Research**: Understand the background of your interviewee like a book. Construct the timeline of their career path so you have a basic understanding of their profiles
+
+* **Contact**: Initiate the conversation, do the necessary work to maximize your chance of having an interview. Be cognizant of other people's time
+
+* **Interview**: Prepare your top 3 questions, take notes, don't process them on the spot. Ask if you can follow up
+
+* **Analysis**: After conducting the interview, do differential analysis. Separate circumstances from skills, skill/habit/asset framework.
+
+* **Document**: Properly document the learnings without exposing other people's privacy
+
+* **Follow-up**: Ask to follow up, make sure you show progress
+
+### On Buidling Networks
+
+Reid Hoffman's "the startup of you"?
+
+### On Mentoring
+
+Here are a few Quora answers that articulate what constitute a good mentor-mentee relationship:
 
 * **Mutually understood goals**: Prior to entering into a relationship, the mentee, or the person matchmaking the mentor/mentee should be able to communicate the goals of the relationship.
 
@@ -39,18 +64,17 @@ Here are a few Quora answers that I think pin down the essence of a good mentor-
 
 ### Project Metrics
 
-* Set up a regular cadence to interview people (every week [Reach] or every two weeks)
-* Come up with a SOP for research, contact, interview, analysis, document
+* Set up a regular cadence to interview people (Every two weeks)
+* Come up with a SOP for research, contact, interview, analysis, document, follow-up
 
 ### Performance Metrics
 
 * **Experience Harvesting / Data Driven Planning**
-	* Figure out at least 1 critical skill for DS
-	* Have a better picture of how DS field is sub-divided into other fields
-	* Stack rank which sub-field you have the highest chance of impact and success
+	* Identify 1 critical skill for Type A DS & Type B DS
+	* Try to integrate (or plan) these skills into your on the job training
 
 * **Build my network**
-	* The network should be large and close enough that I can manage to invite a sizable chunk of time to a DS meetup
+	* The network should be large and close enough that I can host a DS meetup (like the one Samson and I talk about)
 
 * **Seek Mentors**
 	* Identify a narrow set of candidates as mentors
