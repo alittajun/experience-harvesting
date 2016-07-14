@@ -1,0 +1,3 @@
+* [Data Science at Instacart]: https://tech.instacart.com/data-science-at-instacart/
+* [Jeremy's Linkedin]: https://www.linkedin.com/in/jeremystanley?authType=NAME_SEARCH&authToken=inHS&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A736226%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1468378492507%2Ctas%3Ajeremy%20stan
+* [Doing Data Science Right]:http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/
